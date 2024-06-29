@@ -13,7 +13,8 @@ Tarefas realizadas:
 
 Usando esse método, foi obtido um resultado bastante satisfatório, a média dos folds, utilizando o LOOCV, foi de Mean Absolute Error de 4.25 
 
-Dataset -> "raw", "ppg_csv", "gt" \n
+Dataset -> "raw", "ppg_csv", "gt"
+
 raw -> contém vídeos do dedo dos pacientes, gravados utilizando um celular com flash.
 ppg_csv -> contém sinais de ppg. Cada amostra do sinal foi obtidos através da média de um frame.
 gt -> contém os valores de saturação de oxigênio captados utilizando um oxímetro, durante a gravação do vídeo.
