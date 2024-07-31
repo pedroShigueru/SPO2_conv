@@ -11,7 +11,7 @@ Tarefas realizadas:
     - Camadas Densas para regressão
     - Leave One Out Cross Validation (LOOCV)
 
-Usando esse método, foi obtido um resultado bastante satisfatório, a média dos folds, utilizando o LOOCV, foi de Mean Absolute Error de 4.25 
+Usando esse método, foi obtido um resultado bastante satisfatório. A média dos folds foi de Mean Absolute Error de 4.25 
 
 Dataset -> "raw", "ppg_csv", "gt"
 
