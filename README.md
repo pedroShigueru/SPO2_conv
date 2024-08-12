@@ -4,6 +4,7 @@ Artigo utilizado para o estudo e aprendizado:
 Hoffman, J.S., Viswanath, V.K., Tian, C. et al. Smartphone camera oximetry in an induced hypoxemia study. npj Digit. Med. 5, 146 (2022). https://doi.org/10.1038/s41746-022-00665-y
 
 Tarefas realizadas: 
+<br/>
 **1) Pré processamento dos sinais de ppg**
     - Normalização
     - Padronização
