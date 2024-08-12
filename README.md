@@ -1,3 +1,5 @@
+LOOCV_right.py é o arquivo que contém o código principal
+
 Artigo utilizado para o estudo e aprendizado:
 Hoffman, J.S., Viswanath, V.K., Tian, C. et al. Smartphone camera oximetry in an induced hypoxemia study. npj Digit. Med. 5, 146 (2022). https://doi.org/10.1038/s41746-022-00665-y
 
