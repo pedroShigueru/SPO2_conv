@@ -6,16 +6,17 @@ Hoffman, J.S., Viswanath, V.K., Tian, C. et al. Smartphone camera oximetry in an
 Tarefas realizadas: 
 <br/>
 <br/>
-**1) Pré processamento dos sinais de ppg**
-    - Normalização
-    - Padronização
-    - Janelamento de 3 segundos do sinal
+**1) Pré processamento dos sinais de ppg**<br/>
+    - Normalização <br/>
+    - Padronização <br/>
+    - Janelamento de 3 segundos do sinal 
     <br/>
     <br/>
-**2) Modelagem**
-    - Houve uma mistura de Convolução 2D e 1D
-    - Camadas Densas para regressão
+**2) Modelagem**<br/>
+    - Houve uma mistura de Convolução 2D e 1D<br/>
+    - Camadas Densas para regressão<br/>
     - Leave One Out Cross Validation (LOOCV)
+<br/>
 <br/>
 Usando esse método, foi obtido um resultado bastante satisfatório. A média da métrica Mean Absolute Error foi de 4.25 
 
