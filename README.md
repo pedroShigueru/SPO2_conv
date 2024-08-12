@@ -8,6 +8,7 @@ Tarefas realizadas:
     - Normalização
     - Padronização
     - Janelamento de 3 segundos do sinal
+    <\br>
 **2) Modelagem**
     - Houve uma mistura de Convolução 2D e 1D
     - Camadas Densas para regressão
